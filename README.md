@@ -1,7 +1,12 @@
 # This project is a work in progress
 
 This site is a project currently in progress to learn acessibility on the web
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##### TODO:
+
+-   [ ] Learn Markdown
+-   [ ] Create visual mockups
+
 
 ## Available Scripts
 
