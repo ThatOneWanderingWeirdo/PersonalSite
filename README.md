@@ -4,8 +4,9 @@ This site is a project currently in progress to learn acessibility on the web
 
 ##### TODO:
 
--   [ ] Learn Markdown
--   [ ] Create visual mockups
+- [ ] Learn Markdown
+- [ ] Create visual mockups
+- [ ] Figure out bootstrap
 
 
 ## Available Scripts

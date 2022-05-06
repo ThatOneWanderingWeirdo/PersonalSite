@@ -1,11 +1,11 @@
 import React from "react";
 
+
 const About = () => {
 return (
 	<div>
 	<h1>
-		GeeksforGeeks is a Computer
-		Science portal for geeks.
+		Testing
 	</h1>
 	</div>
 );
