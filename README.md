@@ -1,6 +1,6 @@
 # This project is a work in progress
 
-This site is a project currently in progress to learn acessibility on the web
+This site is a project currently in progress to learn accessibility on the web
 
 ##### TODO:
 
